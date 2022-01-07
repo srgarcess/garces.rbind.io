@@ -1,0 +1,12 @@
+---
+date: "2020-01-06T00:00:00Z"
+external_link: "https://www.datacamp.com/projects/478"
+image:
+  caption: Photo by Reader's Digest
+  focal_point: Smart
+summary: In this project I learned to create and develop interactive maps using [leaflet](https://leafletjs.com/) to determine where to open a Chipotle.
+tags:
+- Data Visualization
+- Importing and Cleaning Data
+title: Where Would You Open a Chipotle?
+---

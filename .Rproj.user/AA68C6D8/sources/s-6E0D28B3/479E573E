@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579580782523.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "8|27|10|0|\n18|11|22|0|\n28|52|36|0|\n",
+    "hash" : "0",
+    "id" : "479E573E",
+    "lastKnownWriteTime" : 1579580901,
+    "last_content_update" : 1579580914512,
+    "path" : "C:/Users/garce/garces.rbind.io/content/post/2015-07-23-r-rmarkdown.Rmd",
+    "project_path" : "content/post/2015-07-23-r-rmarkdown.Rmd",
+    "properties" : {
+        "cursorPosition" : "14,175",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

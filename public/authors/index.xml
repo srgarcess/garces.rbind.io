@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Lucas Garcés</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Lucas Garcés</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Lucas Garcés</copyright>
+    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Currently, Lucas is seeking a Master of Arts in Applied Economics - Financial Economics at Barton School of Business, Wichita State University.&lt;/p&gt;
+&lt;p&gt;Every business collects data, whether it&#39;s sales figures, market research, logistics, or transportation costs. As a prospective data analyst, Lucas will collect data and use it to help companies make better business decisions.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../img/certifacates.jpg&#34; alt=&#34;reviews&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Additionally, Lucas is currently learning new programming skills that will ensure portfolios are risk-balanced, will help him find trading opportunities and asset price valuation using mathematical models.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

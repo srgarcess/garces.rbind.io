@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other on Lucas Garcés</title>
+    <link>/tags/other/</link>
+    <description>Recent content in Other on Lucas Garcés</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Lucas Garcés</copyright>
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Citi Institutional Banking by InsideSherpa</title>
+      <link>/project/citi-markets/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/citi-markets/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

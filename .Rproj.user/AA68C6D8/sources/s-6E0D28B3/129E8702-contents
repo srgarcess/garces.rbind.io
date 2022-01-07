@@ -1,0 +1,12 @@
+---
+date: "2019-12-27T00:00:00Z"
+external_link: https://www.insidesherpa.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/JP-Morgan-Banking-Technology-Virtual-Program
+image:
+  caption: Photo by Providence Business News
+  focal_point: Smart
+summary: Assisted in developing additional chart features to a trader's dashboard allowing them to better identify under/over-valued stocks based on historical correlation spreads.
+tags:
+- Software Engineering
+- Python
+title: JPMorgan Chase & Co. by InsideSherpa
+---

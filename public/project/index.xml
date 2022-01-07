@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Lucas Garcés</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Lucas Garcés</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Lucas Garcés</copyright>
+    <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Visual History of Nobel Prize Winners</title>
+      <link>/project/nobel-prize/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/nobel-prize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Citi Institutional Banking by InsideSherpa</title>
+      <link>/project/citi-markets/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/citi-markets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Text Analysis of Trump&#39;s Tweets</title>
+      <link>/project/trump/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/trump/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where Would You Open a Chipotle?</title>
+      <link>/project/chipotle/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/chipotle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JPMorgan Chase &amp; Co. by InsideSherpa</title>
+      <link>/project/jpm/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/jpm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
